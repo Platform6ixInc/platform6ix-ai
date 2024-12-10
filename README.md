@@ -7,8 +7,10 @@ Welcome to **Platform6ix Stack**, an open-source SaaS marketplace that empowers 
 
 ## Screenshots
 
-![Screenshots of Login](https://platform6ix.ai/stack.png)
+![Screenshot of Platform6ix Login](https://github.com/Platform6ixInc/platform6ix-stack/blob/main/screenshots/platform6ix_1.png)
 
+
+![Screenshot of Platform6ix AI](https://github.com/Platform6ixInc/platform6ix-stack/blob/main/screenshots/platform6ix_3.png)
 
 ## What is Platform6ix Stack?
 
