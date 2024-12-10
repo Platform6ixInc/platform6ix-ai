@@ -57,7 +57,7 @@ Platform6ix Stack is an all-in-one environment designed for sourcing, integratin
 ## Getting Started
 
 1. **Sign Up**:  
-   Head over to [stack.platform6ix.ai](https://stack.platform6ix.ai) and create an account.
+   Head over to [stack.platform6ix.ai](https://platform6ix.ai) and create an account.
 
 2. **Explore**:  
    Browse the marketplace for existing SaaS offerings or identify gaps you can fill with your unique solution.
