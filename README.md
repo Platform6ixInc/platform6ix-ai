@@ -3,7 +3,7 @@ Platform6ixStack is a SaaS Marketplace | Buy a SaaS | Sell a SaaS
 
 # Platform6ix Stack
 
-Welcome to **Platform6ix Stack**, an open-source SaaS marketplace that empowers developers, engineers, and entrepreneurs to **buy, sell, and monetize** software solutions. Hosted at [stack.platform6ix.ai](https://stack.platform6ix.ai), our platform brings together a global community of software creators and consumers. Whether you are a seasoned developer, a GitHub contributor, or a tech entrepreneur, Platform6ix Stack provides the tools you need to build, innovate, and earn from your SaaS offerings.
+Welcome to **Platform6ix Stack**, an open-source SaaS marketplace that empowers developers, engineers, and entrepreneurs to **buy, sell, and monetize** software solutions. Hosted at [platform6ix.ai](https://stack.platform6ix.ai), our platform brings together a global community of software creators and consumers. Whether you are a seasoned developer, a GitHub contributor, or a tech entrepreneur, Platform6ix Stack provides the tools you need to build, innovate, and earn from your SaaS offerings.
 
 ## Screenshots
 
@@ -36,7 +36,7 @@ Platform6ix Stack is an all-in-one environment designed for sourcing, integratin
 ## How It Works
 
 1. **Browse or Publish SaaS Solutions**:  
-   Visit [stack.platform6ix.ai](https://stack.platform6ix.ai) to explore a catalog of SaaS products. Found something you like? Purchase and integrate it into your stack with ease. Have something of your own to sell? Publish your code, set your price, and reach a global audience of potential buyers.
+   Visit [platform6ix.ai](https://platform6ix.ai) to explore a catalog of SaaS products. Found something you like? Purchase and integrate it into your stack with ease. Have something of your own to sell? Publish your code, set your price, and reach a global audience of potential buyers.
 
 2. **Open-Source Contributions**:  
    Platform6ix Stack is constantly evolving. Contribute on GitHub by fixing bugs, proposing new features, or improving documentation. Every contribution helps the community and can enhance your profile as a trusted expert in the ecosystem.
@@ -64,7 +64,7 @@ Platform6ix Stack is an all-in-one environment designed for sourcing, integratin
 ## Getting Started
 
 1. **Sign Up**:  
-   Head over to [stack.platform6ix.ai](https://platform6ix.ai) and create an account.
+   Head over to [platform6ix.ai](https://platform6ix.ai) and create an account.
 
 2. **Explore**:  
    Browse the marketplace for existing SaaS offerings or identify gaps you can fill with your unique solution.
