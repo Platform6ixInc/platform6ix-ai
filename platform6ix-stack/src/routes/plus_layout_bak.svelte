@@ -27,7 +27,7 @@
 	<header class="container z-40 bg-background">
 	  <div class="flex h-20 items-center justify-between py-6">
 		<a href="/">
-		<img src="/favicon.png" alt="OffsideAI" class="mx-4 px-1 h-8 w-8 md:h-10 md:w-10" />
+		<img src="/favicon.png" alt="Platform6ix" class="mx-4 px-1 h-8 w-8 md:h-10 md:w-10" />
 		</a>
 		<a
 		href="/"

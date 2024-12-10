@@ -19,13 +19,13 @@
 		class="rounded-2xl bg-muted px-4 py-1.5 text-lg font-medium"
 		target="_blank"
 	  >
-		Welcome to OffsideAI Assistant 
+		Welcome to Platform6ix Assistant 
 	  </a>
 
 
 
     <form on:submit={handleSubmit}>
-        <Input bind:value={$input}  placeholder="Chat with OffsideAI..."
+        <Input bind:value={$input}  placeholder="Chat with Platform6ix..."
 		class="h-9 md:w-[100px] lg:w-[300px]"/>
         <br/>
         <button 
@@ -41,4 +41,3 @@
         </ul>
 	</div>
   </section>
-

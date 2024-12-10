@@ -1,6 +1,6 @@
 <div class="mx-auto flex w-full flex-col gap-4 md:max-w-[58rem]">
     <h2 class="font-heading text-3xl leading-[1.1] sm:text-3xl md:text-6xl">
-      OffsideAI Vision
+      Platform6ix CRM
     </h2>
     <p class="max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7">
       Unlock all features including 4k+ tokens for your enterprise use-cases
@@ -8,9 +8,11 @@
   </div>
   <div class="grid w-full items-start gap-10 rounded-lg border p-10 md:grid-cols-[1fr_200px]">
     <div class="grid gap-6">
+      <a href="crm/">
       <h3 class="text-xl font-bold sm:text-2xl">
-        OffsideAI Vision
+        Platform6ix CRM 
       </h3>
+      </a>
       <ul class="grid gap-3 text-sm text-muted-foreground sm:grid-cols-2">
         <li class="flex items-center">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" class="h-6 w-6 lucide lucide-wallet mr-2">

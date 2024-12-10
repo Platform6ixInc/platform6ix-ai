@@ -1,4 +1,3 @@
-
 <script lang="ts">
 	import type { PageData } from "./$types";
   import { Button } from "$components/ui/button";
@@ -34,7 +33,7 @@ class="relative hidden h-full flex-col bg-muted p-10 text-white dark:border-r lg
       url(bluesky_bg.jpg);"
 />
 <div class="relative z-20 flex items-center text-lg font-medium">
-  OffsideAI 
+  Platform6ix 
 </div>
 <div class="relative z-20 mt-auto">
   <blockquote class="space-y-2">

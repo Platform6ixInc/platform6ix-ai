@@ -35,7 +35,7 @@
                     url(bluesky_bg.jpg);"
               />
               <div class="relative z-20 flex items-center text-lg font-medium">
-                OffsideAI 
+                Platform6ix 
               </div>
               <div class="relative z-20 mt-auto">
                 <blockquote class="space-y-2">
@@ -139,5 +139,3 @@
             </div>
              -->
             {/if}
-
-

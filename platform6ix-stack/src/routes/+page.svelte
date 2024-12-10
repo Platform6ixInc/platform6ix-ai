@@ -5,26 +5,26 @@
 </script>
 <section class="space-y-6 pb-8 pt-6 md:pb-6 md:pt-5 lg:py-4">
 	<div class="container flex max-w-[64rem] flex-col items-center gap-4 text-center">
-	  <img src="logo.svg" alt="OffsideAI" class="w-24 h-24 sm:w-32 sm:h-32 md:w-40 md:h-40 lg:w-48 lg:h-48" />
+	  <img src="logo.svg" alt="Platform6ix" class="w-24 h-24 sm:w-32 sm:h-32 md:w-40 md:h-40 lg:w-48 lg:h-48" />
 	  <a
-		href="https://apps.apple.com/us/app/offsideai/id1631784184"
+		href="https://apps.apple.com/us/app/platform6ix/id1631784184"
 		class="rounded-2xl bg-muted px-4 py-1.5 text-sm font-medium"
 		target="_blank"
 	  >
-		OffsideAI on App Store
+		Platform6ix on App Store
 	  </a>
 	  <h1 class="font-heading text-3xl sm:text-5xl md:text-6xl lg:text-7xl">
-		ChatOffside | The Enterprise Digital Transformation Platform for Deep Learning and ML Ops
+		Platform6ix | The Agentic AI SaaS Platform
 	  </h1>
 	  <p class="max-w-[42rem] leading-normal text-muted-foreground sm:text-xl sm:leading-8">
-		AI Concierge Apps, AI Assistants, Model Training, Offside Vector DB,  ML Ops,  Pipeline Deployments, Spatial Computing
+		AI Concierge Apps, AI Assistants, Model Training,  Vector DB,  ML Ops,  Pipeline Deployments, Spatial Computing
 	  </p>
 	  <div class="space-x-4">
-		<a href="https://github.com/offsideAI/ModelHub" class="lg">
+		<a href="https://github.com/platform6ix/ModelHub" class="lg">
 		  Get Started
 		</a>
 		<a
-		  href="https://github.com/offsideAI/ModelHub"
+		  href="https://github.com/platform6ix/ModelHub"
 		  target="_blank"
 		  rel="noreferrer"
 		  class="lg"
@@ -41,10 +41,10 @@
 		Proudly Open Source
 	  </h2>
 	  <p class="max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7">
-		OffsideAI is open source <br />{" "}
+		Platform6ix is open source <br />{" "}
 		The code is available on{" "}
 		<a
-		  href="https://github.com/offsideAI"
+		  href="https://github.com/platform6ix"
 		  target="_blank"
 		  rel="noreferrer"
 		  class="underline underline-offset-4"
@@ -54,7 +54,7 @@
 		.{" "}
 	  </p>
 		<a
-		  href="https://www.producthunt.com/products/offsideai"
+		  href="https://www.producthunt.com/products/platform6ix"
 		  target="_blank"
 		  rel="noreferrer"
 		  class="flex"

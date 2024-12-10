@@ -19,7 +19,7 @@ class="container space-y-6 bg-slate-50 py-2 dark:bg-transparent md:py-2 lg:py-4"
       <div class="space-y-2">
         <h3 class="font-bold">AI and ML Development</h3>
         <p class="text-sm text-muted-foreground">
-          OffsideAI develops and integrates generative AI solutions into your enterprise applications
+          Platform6ix develops and integrates generative AI solutions into your enterprise applications
         </p>
       </div>
     </div>
@@ -30,9 +30,9 @@ class="container space-y-6 bg-slate-50 py-2 dark:bg-transparent md:py-2 lg:py-4"
         <path d="m9 10 2 2 4-4"/><rect width="20" height="14" x="2" y="3" rx="2"/><path d="M12 17v4"/><path d="M8 21h8"/>
       </svg>
       <div class="space-y-2">
-        <h3 class="font-bold">OffsideAI Model Hub</h3>
+        <h3 class="font-bold">Platform6ix Model Hub</h3>
         <p class="text-sm text-muted-foreground">
-          Deploy and consume APIs of your favorite ML models using OffsideAI Model Hub
+          Deploy and consume APIs of your favorite ML models using Platform6ix Model Hub
         </p>
       </div>
     </div>
@@ -43,9 +43,9 @@ class="container space-y-6 bg-slate-50 py-2 dark:bg-transparent md:py-2 lg:py-4"
         <path d="M21 12V7H5a2 2 0 0 1 0-4h14v4"/><path d="M3 5v14a2 2 0 0 0 2 2h16v-5"/><path d="M18 12a2 2 0 0 0 0 4h4v-4Z"/>
       </svg>
       <div class="space-y-2">
-        <h3 class="font-bold">OffsideAI Fintech APIs</h3>
+        <h3 class="font-bold">Platform6ix Fintech APIs</h3>
         <p class="text-sm text-muted-foreground">
-          OffsideAI Vision APIs are low latency and highly scalable APIs for digital transformation using computer vision APIs
+          Platform6ix Vision APIs are low latency and highly scalable APIs for digital transformation using computer vision APIs
         </p>
       </div>
     </div>
@@ -59,7 +59,7 @@ class="container space-y-6 bg-slate-50 py-2 dark:bg-transparent md:py-2 lg:py-4"
       <div class="space-y-2">
         <h3 class="font-bold">Security</h3>
         <p class="text-sm text-muted-foreground">
-            OffsideAI Platform APIs include threat detection, phishing detection, vulnerability assesment and secure user authentication.
+            Platform6ix Platform APIs include threat detection, phishing detection, vulnerability assesment and secure user authentication.
         </p>
       </div>
     </div>
@@ -72,7 +72,7 @@ class="container space-y-6 bg-slate-50 py-2 dark:bg-transparent md:py-2 lg:py-4"
       <div class="space-y-2">
         <h3 class="font-bold">Plugin Development</h3>
         <p class="text-sm text-muted-foreground">
-          OffsideAI GenAI provides ChatGPT function calling, ChatGPT plugins and Pinecone Embeddings for enterprise integrations 
+          Platform6ix GenAI provides ChatGPT function calling, ChatGPT plugins and Pinecone Embeddings for enterprise integrations 
         </p>
       </div>
     </div>
@@ -85,7 +85,7 @@ class="container space-y-6 bg-slate-50 py-2 dark:bg-transparent md:py-2 lg:py-4"
       <div class="space-y-2">
         <h3 class="font-bold">Enterprise Generative AI Transformation</h3>
         <p class="text-sm text-muted-foreground">
-          OffsideAI GenML CRM enables AI transformation in enterprise use-cases.
+          Platform6ix GenML CRM enables AI transformation in enterprise use-cases.
         </p>
       </div>
     </div>
@@ -93,7 +93,7 @@ class="container space-y-6 bg-slate-50 py-2 dark:bg-transparent md:py-2 lg:py-4"
 </div>
 <div class="mx-auto text-center md:max-w-[58rem]">
   <p class="leading-normal text-muted-foreground sm:text-lg sm:leading-7">
-    OffsideAI develops AI applications for enterprise use-cases
+    Platform6ix develops AI applications for enterprise use-cases
   </p>
 </div>
 </section>

@@ -55,17 +55,17 @@
 		Join us on discord
 	  </a>
 	  <h1 class="font-heading text-3xl sm:text-5xl md:text-6xl lg:text-7xl">
-		OffsideAI GenML - The GenAI Platform for Enterprise Data Engineering and ML-Ops
+		Platform6ix GenML - The GenAI Platform for Enterprise Data Engineering and ML-Ops
 	  </h1>
 	  <p class="max-w-[42rem] leading-normal text-muted-foreground sm:text-xl sm:leading-8">
 		AI Alignment Research,Model Training Pipelines,  ML Ops Deployments, AI Application Development
 	  </p>
 	  <div class="space-x-4">
-		<a href="https://github.com/offsideAI/ModelHub" class="lg">
+		<a href="https://github.com/platform6ix/ModelHub" class="lg">
 		  Get Started
 		</a>
 		<a
-		  href="https://github.com/offsideAI/ModelHub"
+		  href="https://github.com/platform6ix/ModelHub"
 		  target="_blank"
 		  rel="noreferrer"
 		  class="lg"
@@ -79,10 +79,10 @@
   <section id="open-source" class="container py-8 md:py-12 lg:py-24">
 	<div class="mx-auto flex max-w-[58rem] flex-col items-center justify-center gap-4 text-center">
 	  <h2 class="font-heading text-3xl leading-[1.1] sm:text-3xl md:text-6xl">
-		OffsideAI develops AI applications for enterprise use-cases
+		Platform6ix develops AI applications for enterprise use-cases
 	  </h2>
 	  <p class="max-w-[85%] leading-normal text-muted-foreground sm:text-lg sm:leading-7">
-		OffsideAI is open source <br />{" "}
+		Platform6ix is open source <br />{" "}
 		The code is available on{" "}
 		<a
 		  href="#"

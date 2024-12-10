@@ -23,7 +23,7 @@
 
 <div class="mx-auto flex w-full flex-col gap-4 md:max-w-[58rem]">
     <h2 class="font-heading text-3xl leading-[1.1] sm:text-3xl md:text-6xl">
-      Offside CRM
+      Platform6ix CRM
     </h2>
 
     <section class="space-y-6 pb-8 pt-6 md:pb-12 md:pt-10 lg:py-32">

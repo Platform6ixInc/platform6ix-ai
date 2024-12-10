@@ -1,6 +1,6 @@
 <script lang="ts">
-    import OffsideAiCrm from '../OffsideAiCrm.svelte';
-	import OffsideAiVision from '../OffsideAiVision.svelte';
+    import OffsideAiCrm from '../Platform6ixCrm.svelte';
+	import OffsideAiVision from '../Platform6ixVision.svelte';
 import type { PageData } from './$types';
     
     export let data: PageData;
@@ -12,7 +12,7 @@ import type { PageData } from './$types';
    <OffsideAiVision /> 
     <div class="mx-auto flex w-full max-w-[58rem] flex-col gap-4">
       <p class="max-w-[85%] leading-normal text-muted-foreground sm:leading-7">
-        <strong>OffsideAI is the generative AI platform for enterprise.{" "}</strong>
+        <strong>Platform6ix is the generative AI platform for enterprise.{" "}</strong>
       </p>
     </div>
   </section>
