@@ -44,7 +44,7 @@
 		Platform6ix is open source <br />{" "}
 		The code is available on{" "}
 		<a
-		  href="https://github.com/platform6ix"
+		  href="https://github.com/platform6ixinc/platform6ix-ai"
 		  target="_blank"
 		  rel="noreferrer"
 		  class="underline underline-offset-4"
