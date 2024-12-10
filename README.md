@@ -3,7 +3,7 @@ Platform6ixStack is a SaaS Marketplace | Buy a SaaS | Sell a SaaS
 
 # Platform6ix Stack
 
-Welcome to **Platform6ix Stack**, an open-source SaaS marketplace that empowers developers, engineers, and entrepreneurs to **buy, sell, and monetize** software solutions. Hosted at [platform6ix.ai](https://stack.platform6ix.ai), our platform brings together a global community of software creators and consumers. Whether you are a seasoned developer, a GitHub contributor, or a tech entrepreneur, Platform6ix Stack provides the tools you need to build, innovate, and earn from your SaaS offerings.
+Welcome to **Platform6ix Stack**, an open-source SaaS marketplace that empowers developers, engineers, and entrepreneurs to **buy, sell, and monetize** software solutions. Hosted at [platform6ix.ai](https://platform6ix.ai), our platform brings together a global community of software creators and consumers. Whether you are a seasoned developer, a GitHub contributor, or a tech entrepreneur, Platform6ix Stack provides the tools you need to build, innovate, and earn from your SaaS offerings.
 
 ## Screenshots
 
